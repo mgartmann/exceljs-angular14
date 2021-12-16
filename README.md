@@ -1,4 +1,4 @@
-# Exceljs with Angular 10
+# Exceljs with Angular 14
 
 Use below steps to run the app -
 ```bash
