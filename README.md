@@ -1,9 +1,9 @@
-# Exceljs with Angular 14
+# Exceljs with Angular 13
 
 Use below steps to run the app -
 ```bash
 npm install
-ng serve --open
+ng serve
 ```
 
 ## Borrowed from -
